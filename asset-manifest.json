@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dawal/static/css/main.3799f258.chunk.css",
-    "main.js": "/dawal/static/js/main.cec6f807.chunk.js",
-    "main.js.map": "/dawal/static/js/main.cec6f807.chunk.js.map",
+    "main.js": "/dawal/static/js/main.6a4b8ab5.chunk.js",
+    "main.js.map": "/dawal/static/js/main.6a4b8ab5.chunk.js.map",
     "runtime-main.js": "/dawal/static/js/runtime-main.bc17bc41.js",
     "runtime-main.js.map": "/dawal/static/js/runtime-main.bc17bc41.js.map",
     "static/js/2.a99ed70f.chunk.js": "/dawal/static/js/2.a99ed70f.chunk.js",
     "static/js/2.a99ed70f.chunk.js.map": "/dawal/static/js/2.a99ed70f.chunk.js.map",
     "index.html": "/dawal/index.html",
-    "precache-manifest.0073b88790998fcf4f6cd432975acbb7.js": "/dawal/precache-manifest.0073b88790998fcf4f6cd432975acbb7.js",
+    "precache-manifest.8ee13baab491395c4fc0276f0fd1aef4.js": "/dawal/precache-manifest.8ee13baab491395c4fc0276f0fd1aef4.js",
     "service-worker.js": "/dawal/service-worker.js",
     "static/css/main.3799f258.chunk.css.map": "/dawal/static/css/main.3799f258.chunk.css.map",
     "static/media/01.png": "/dawal/static/media/01.d75f575c.png",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.bc17bc41.js",
     "static/js/2.a99ed70f.chunk.js",
     "static/css/main.3799f258.chunk.css",
-    "static/js/main.cec6f807.chunk.js"
+    "static/js/main.6a4b8ab5.chunk.js"
   ]
 }
