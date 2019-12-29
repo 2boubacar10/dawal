@@ -1,0 +1,13 @@
+pour le token, 
+je recupere le mot de passe et je le hash en md5 avant de l'envoye cote client
+
+ensuite je recupère ce mot de passe cote serveur et je le hash en sha1 avant de l'envoyer dans la base de données
+
+J'encode les caracteres spéciaux avec: ANNULE
+Javascript: encodeURIComponent();
+Php: urlencode();
+
+######
+Je n'ai pas terminé avec la securite de connexion avec la gestion en token
+
+Je dois creer une table token et y stocker les tokens temporaire. Ensuite c'est avec ce token là que l'on va stocker pour l'utilisateur en session de façon temporaire.
