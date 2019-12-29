@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af4d3eb337c65c875870ae05a5594363",
+    "revision": "f68f6c8c54df2fa78f543e5ebb05fcdc",
     "url": "/dawal/index.html"
   },
   {
-    "revision": "515b158edd0cce08f71e",
+    "revision": "479de22298611385093e",
     "url": "/dawal/static/css/main.3799f258.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dawal/static/js/2.a99ed70f.chunk.js"
   },
   {
-    "revision": "515b158edd0cce08f71e",
-    "url": "/dawal/static/js/main.cf27d492.chunk.js"
+    "revision": "479de22298611385093e",
+    "url": "/dawal/static/js/main.cec6f807.chunk.js"
   },
   {
     "revision": "0ed0d4dfb6a28935f23a",
